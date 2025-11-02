@@ -1,0 +1,18 @@
+{
+  "name": "hello-lambda",
+  "version": "1.0.0",
+  "description": "A simple AWS Lambda function that returns a greeting message.",
+  "main": "handler.js",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "jest",
+    "build": "echo 'No build step required'"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "jest": "^27.0.0"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
